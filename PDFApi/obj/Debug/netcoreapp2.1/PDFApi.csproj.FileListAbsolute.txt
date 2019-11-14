@@ -1,0 +1,16 @@
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\PDFApi.deps.json
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\PDFApi.runtimeconfig.json
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\PDFApi.runtimeconfig.dev.json
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\PDFApi.dll
+D:\PDFApi\PDFApi\bin\Debug\netcoreapp2.1\PDFApi.pdb
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.csprojAssemblyReference.cache
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.RazorAssemblyInfo.cache
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.RazorAssemblyInfo.cs
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.AssemblyInfoInputs.cache
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.AssemblyInfo.cs
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.RazorTargetAssemblyInfo.cache
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.dll
+D:\PDFApi\PDFApi\obj\Debug\netcoreapp2.1\PDFApi.pdb
